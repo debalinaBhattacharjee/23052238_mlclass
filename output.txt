@@ -1,0 +1,13 @@
+MODEL PERFORMANCE RESULTS
+=========================
+
+REGRESSION RESULTS (MSE)
+Linear Regression: 2.9078
+Multiple Linear Regression: 2.9078
+KNN Regression: 2.9800
+Decision Tree Regression: 3.4020
+
+CLASSIFICATION RESULTS (Accuracy)
+Naive Bayes: 0.9750
+KNN Classification: 1.0000
+Decision Tree Classification: 1.0000
