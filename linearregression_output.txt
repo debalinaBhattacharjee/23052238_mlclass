@@ -1,0 +1,5 @@
+Linear Regression Output (Kaggle Salary Dataset)
+------------------------------------------------
+Slope (Coefficient): 9423.81532303098
+Intercept: 24380.20147947369
+R-squared Score: 0.9024461774180498

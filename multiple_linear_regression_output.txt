@@ -1,0 +1,12 @@
+Multiple Linear Regression Output (USA Housing Dataset)
+------------------------------------------------------
+Intercept: -2635072.900933357
+
+Coefficients:
+Avg. Area Income: 21.65220576362337
+Avg. Area House Age: 164666.48072189197
+Avg. Area Number of Rooms: 119624.0122320578
+Avg. Area Number of Bedrooms: 2440.3776110316717
+Area Population: 15.270313429966336
+
+R-squared Score: 0.9179971706834288
